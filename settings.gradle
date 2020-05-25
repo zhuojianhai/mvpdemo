@@ -1,2 +1,3 @@
 include ':app'
 rootProject.name='mvpdemo'
+include ':network_api'
