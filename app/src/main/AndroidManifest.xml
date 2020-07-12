@@ -11,7 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".mvp2.LoginActivity2"></activity>
+        <activity android:name="com.zjh.ioc.MainIOCActivity"></activity>
+        <activity android:name="com.zjh.ioc.BaseActivity" />
+        <activity android:name=".mvp2.LoginActivity2" />
         <activity android:name=".mvp1.login.LoginActivity" />
         <activity android:name=".base.baseactivity.BaseActivity" />
         <activity android:name=".MainActivity">
